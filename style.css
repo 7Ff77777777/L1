@@ -1,0 +1,61 @@
+.head-block,.top-menu,.left-sidebar,.content{
+    background:#3c3c3c;
+    margin-bottom: 1px;
+}
+.head-block{
+    height: 150px;
+    background: url("img/lambo2.jpg")left center no-repeat;
+}
+.top-menu{
+    height: 30px;
+    background:#3c3c3c;
+}
+
+.left-sidebar,.content{
+    background: url("img/lambo6.jpg")left center no-repeat;
+    height: 500px;
+}
+.content{
+    border-left: 1px solid #f9f2f4;
+}
+
+.top-menu ul{
+    padding-left: 0;
+    margin-bottom: 0;
+}
+.top-menu li{
+    display: inline-block;
+    margin-left: 10px;
+    padding: 3px 10px;
+}
+
+a{color: #ffffff;  }
+
+a:hover{
+    text-decoration: none;
+color: limegreen}
+
+input{
+    border: 1px solid #0f0f0f;
+    border-radius: 3px;
+    color: springgreen;
+    background-color: #0f0f0f;
+}
+h3{
+    color: #b2dba1;
+}
+p{
+    color: #b2dba1;
+}
+
+.top-menu.ul.p{
+    color: #a6e1ec;
+}
+.figure img{
+    margin: 0;
+    text-align: center;
+}
+
+
+
+
